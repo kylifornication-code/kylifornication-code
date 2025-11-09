@@ -1,16 +1,21 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kyle+James!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kyle!+You+can+call+me+KJ.;" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kylifornication-code&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Working%20at-Disney-113CCF?style=for-the-badge&logo=disney&logoColor=white" alt="Disney" />
+</div>
+
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on **exciting projects** that push my as a product leader to produce user friendly and functional software. 
+- 💼 Currently working at **The Walt Disney Company** as a Product Leader in Information Security (Product Security)
+- 🔭 I'm currently working on **exciting projects** that push me as a product leader to produce user friendly and functional software. 
 - 🌱 I'm currently learning **new frameworks and best practices**
 - 👯 I'm looking to collaborate on **open-source projects**
 - 💬 Ask me about **software development, architecture, security, or tech in general**
@@ -48,59 +53,7 @@
 
 ## 🚀 Featured Projects
 
-### GitHub Projects
-
-<!-- GitHub Projects will be dynamically loaded here -->
-<!-- Example format:
-#### [Project Name](https://github.com/username/repo)
-![GitHub stars](https://img.shields.io/github/stars/username/repo?style=social)
-![GitHub forks](https://img.shields.io/github/forks/username/repo?style=social)
-- Description of the project
-- Technologies used
--->
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Project 1</h3>
-        <div align="center">
-          <img src="https://via.placeholder.com/400x200?text=Project+1" alt="Project 1" />
-        </div>
-        <div align="center">
-          <a href="https://github.com/kylifornication-code/project1">
-            <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-          <a href="https://project1-demo.com">
-            <img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" />
-          </a>
-        </div>
-        <p align="center">
-          <strong>Tech Stack:</strong> React, Node.js, MongoDB
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Project 2</h3>
-        <div align="center">
-          <img src="https://via.placeholder.com/400x200?text=Project+2" alt="Project 2" />
-        </div>
-        <div align="center">
-          <a href="https://github.com/kylifornication-code/project2">
-            <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-          <a href="https://project2-demo.com">
-            <img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" />
-          </a>
-        </div>
-        <p align="center">
-          <strong>Tech Stack:</strong> Python, FastAPI, PostgreSQL
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### GitLab Projects
+### Git Projects
 
 <!-- GitLab Projects will be dynamically loaded here -->
 <!-- Example format:
@@ -114,31 +67,45 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">GitLab Project 1</h3>
+        <h3 align="center">The Drizzle</h3>
         <div align="center">
-          <img src="https://via.placeholder.com/400x200?text=GitLab+Project+1" alt="GitLab Project 1" />
+          <img src="https://via.placeholder.com/400x200?text=GitLab+Project+1" alt="The Drizzle" />
         </div>
         <div align="center">
-          <a href="https://gitlab.com/username/project1">
+          <a href="https://gitlab.com/kylifornication/thedrizzle">
             <img src="https://img.shields.io/badge/GitLab-Repository-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
           </a>
         </div>
         <p align="center">
-          <strong>Tech Stack:</strong> Go, Docker, Kubernetes
+          <strong>Tech Stack:</strong> MkDocs, JS, HTML5, CSS3, GitLab CICD
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">GitLab Project 2</h3>
+        <h3 align="center">AI Fluency for Teams</h3>
         <div align="center">
-          <img src="https://via.placeholder.com/400x200?text=GitLab+Project+2" alt="GitLab Project 2" />
+          <img src="https://via.placeholder.com/400x200?text=GitLab+Project+2" alt="AI Fluency for Teams" />
         </div>
         <div align="center">
-          <a href="https://gitlab.com/username/project2">
+          <a href="https://gitlab.com/kylifornication/AI-Fluency-For-Teams">
             <img src="https://img.shields.io/badge/GitLab-Repository-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
           </a>
         </div>
         <p align="center">
-          <strong>Tech Stack:</strong> Rust, WebAssembly
+          <strong>Tech Stack:</strong> Typescript, Vite, Docker, Shell
+        </p>
+      </td>
+            <td width="50%">
+        <h3 align="center">AI Text Detector</h3>
+        <div align="center">
+          <img src="https://via.placeholder.com/400x200?text=GitLab+Project+2" alt="AI Text Detector" />
+        </div>
+        <div align="center">
+          <a href="https://gitlab.com/kylifornication/AI-Fluency-For-Teams">
+            <img src="https://img.shields.io/badge/GitLab-Repository-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+          </a>
+        </div>
+        <p align="center">
+          <strong>Tech Stack:</strong> Python, JS, Google Chrome Plugin, Docker, Fast API
         </p>
       </td>
     </tr>
