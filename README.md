@@ -66,11 +66,8 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
+      <td width="33%">
         <h3 align="center">The Drizzle</h3>
-        <div align="center">
-          <img src="https://via.placeholder.com/400x200?text=GitLab+Project+1" alt="The Drizzle" />
-        </div>
         <div align="center">
           <a href="https://gitlab.com/kylifornication/thedrizzle">
             <img src="https://img.shields.io/badge/GitLab-Repository-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
@@ -80,11 +77,8 @@
           <strong>Tech Stack:</strong> MkDocs, JS, HTML5, CSS3, GitLab CICD
         </p>
       </td>
-      <td width="50%">
+      <td width="33%">
         <h3 align="center">AI Fluency for Teams</h3>
-        <div align="center">
-          <img src="https://via.placeholder.com/400x200?text=GitLab+Project+2" alt="AI Fluency for Teams" />
-        </div>
         <div align="center">
           <a href="https://gitlab.com/kylifornication/AI-Fluency-For-Teams">
             <img src="https://img.shields.io/badge/GitLab-Repository-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
@@ -94,11 +88,8 @@
           <strong>Tech Stack:</strong> Typescript, Vite, Docker, Shell
         </p>
       </td>
-            <td width="50%">
+            <td width="33%">
         <h3 align="center">AI Text Detector</h3>
-        <div align="center">
-          <img src="https://via.placeholder.com/400x200?text=GitLab+Project+2" alt="AI Text Detector" />
-        </div>
         <div align="center">
           <a href="https://gitlab.com/kylifornication/AI-Fluency-For-Teams">
             <img src="https://img.shields.io/badge/GitLab-Repository-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
